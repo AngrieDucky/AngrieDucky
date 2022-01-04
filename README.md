@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AngrieDucky and I am complete n00b at code and such
-- 👀 I’m interested in making something fun and something fun to make
-- 🌱 I’m currently learning to becom better at coding and syntaxis of C# to make play around with Unity
-- 💞️ I’m looking to collaborate on said playing around in Unity
+- 👋 Hi, I’m @AngrieDucky. If you are interested in what I usually do - I do work on some automated testing.
+- 👀 I’m already burned out so here I am doing whatever.
+- 🌱 I am semi-proficient in Python and I don't mind it.
+- 💞️ If you feel like collaborating for something, feel free to contact me.
 - 📫 How to reach me: mrangryducky@duckracy.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngrieDucky. If you are interested in what I usually do - I do work on some automated testing.
 - 👀 I’m already burned out so here I am doing whatever.
-- 🌱 I am semi-proficient in Python and I don't mind it.
+- 🌱 I can do Python and trying to get into C#.
 - 💞️ If you feel like collaborating for something, feel free to contact me.
 - 📫 How to reach me: mrangryducky@duckracy.com
 

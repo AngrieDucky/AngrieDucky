@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngrieDucky. If you are interested in what I usually do - I do work on some automated testing.
+- 👋 Hi, I’m @AngrieDucky. If you are interested in what I usually do - I do work on some python code.
 - 👀 I’m already burned out so here I am doing whatever.
 - 🌱 I can do Python and trying to get into C#.
 - 💞️ If you feel like collaborating for something, feel free to contact me.
